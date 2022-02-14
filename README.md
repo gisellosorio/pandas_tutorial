@@ -1,2 +1,2 @@
 # pandas_tutorial
-Pandas tutorial from the youtube channel from Corey Schaffer. 
+Pandas tutorial from Corey Schaffer's youtube channel. 
